@@ -52,7 +52,7 @@ Mejorar procesos de captura de datos para reducir valores faltantes.
 
 # 🚀 Cómo Ejecutar el Proyecto
 1️⃣ Clonar el repositorio
-git clone [https://github.com/tu-usuario/connectatel-analysis.git](https://github.com/jftobonp-Nasua/Proyecto-Analisis-de-una-empresa-de-telecomunicaciones.git)
+git clone (https://github.com/jftobonp-Nasua/Proyecto-Analisis-de-una-empresa-de-telecomunicaciones.git)
 2️⃣ Entrar a la carpeta
 Analisis-de-una-empresa-de-telecomunicaciones
 3️⃣ Instalar dependencias
