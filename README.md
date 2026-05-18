@@ -1,6 +1,6 @@
 # Proyecto-Analisis-de-una-empresa-de-telecomunicaciones
 
-# 🎯 Descripcion del proyecto, 
+# 🎯 Descripcion del proyecto
 Procesamiento e  identificacion de patrones de uso, comportamientos atípicos y caracterizacion de segmentos de clientes, respecto a las diferentes necesidades de los clientes  y las actuales y potenciales ofertas comerciales, con el fin de mejorar la experiencia de los  usuarios
 
 # 📌 Procesos de analisis
@@ -39,7 +39,7 @@ Diferencia de uso y consumo entr usuarios de segmentojóvenes Vs usuarios mayore
 EPotenciales oportunidades de optimizacion de planes y servicios.
 
 # 💡 Recomendaciones de Negocio
-Modificar y generar nuevos planes, con opcoion de personalizacion para clientes de alto consumo.
+Modificar y generar nuevos planes con opcoion de personalizacion para clientes de alto consumo.
 Crear campañas específicas según segmento de edad.
 Seguimineto y monitoreo de usuarios con consumo extremo.
 Mejorar procesos de captura de datos para reducir valores faltantes.
