@@ -3,6 +3,19 @@
 # 🎯 Descripcion del proyecto
 Procesamiento e  identificacion de patrones de uso, comportamientos atípicos y caracterizacion de segmentos de clientes, respecto a las diferentes necesidades de los clientes  y las actuales y potenciales ofertas comerciales, con el fin de mejorar la experiencia de los  usuarios
 
+# fuentes de datos (Datasets)
+
+plans.csv: los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
+users_latam.csv: información de clientes: edad, ciudad, fecha de registro, plan contratado.
+usage.csv: el detalle de uso real: llamadas (duración) y mensajes (longitud).
+
+# 🛠️ Herramnientas empleadas
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
 # 📌 Procesos de analisis
 Limpiar y preparar los datos para el análisis
 Identificar valores nulos y problemas de calidad
@@ -24,13 +37,6 @@ Generar recomendaciones estratégicas para ConnectaTel.
 - Visualizaciones
   Histogramas, Gráficos de dispersión, Boxplots, Comparaciones entre segmentos
 
-# 🛠️ Herramnientas empleadas
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
 # 📈 Principales Hallazgos
 Se identificaron valores nulos en columnas críticas del dataset.
 Evidencia de clientes con niveles de uso extremadamente altos.
@@ -43,3 +49,16 @@ Modificar y generar nuevos planes con opcoion de personalizacion para clientes d
 Crear campañas específicas según segmento de edad.
 Seguimineto y monitoreo de usuarios con consumo extremo.
 Mejorar procesos de captura de datos para reducir valores faltantes.
+
+# 🚀 Cómo Ejecutar el Proyecto
+1️⃣ Clonar el repositorio
+git clone [https://github.com/tu-usuario/connectatel-analysis.git](https://github.com/jftobonp-Nasua/Proyecto-Analisis-de-una-empresa-de-telecomunicaciones.git)
+2️⃣ Entrar a la carpeta
+Analisis-de-una-empresa-de-telecomunicaciones
+3️⃣ Instalar dependencias
+pip install -r requirements.txt
+4️⃣ Ejecutar Jupyter Notebook
+jupyter notebook
+
+Abrir el archivo:
+Analisis-de-una-empresa-de-telecomunicaciones.ipynb
